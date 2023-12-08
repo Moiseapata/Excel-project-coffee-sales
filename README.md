@@ -3,11 +3,13 @@
 
 **Introduction**
 
+
 Chère communauté de Linkedin, je suis content de vous parler de ma première expérience en analyse de données ! Trois jours après avoir commencé à apprendre à devenir analyste de données, j'ai eu l'occasion de m'exercer sur un projet. J'ai aidé un magasin de motos à comprendre leurs données en créant des tableaux avec Excel. Mon objectif était d'aider le magasin à prendre de meilleures décisions pour développer leur entreprise.
 
 
 
 **Le Challenge**
+
 
 En tant que débutant, ce projet m'a confronté à divers défis qui m'ont aidé à progresser sur les plans personnel et professionnel. 
 
@@ -19,11 +21,13 @@ Deuxièmement, j'ai dû comprendre les besoins et les objectifs particuliers des
 
 **Nettoyage et préparation de données**
 
+
 Pour lancer le projet, j'ai commencé par nettoyer et organiser soigneusement les données. Cette étape a consisté à supprimer les doublons, à traiter les valeurs manquantes et à normaliser les formats afin de garantir la cohérence et l'exactitude des données. En investissant du temps dans la préparation des données, j'ai voulu créer une base fiable pour mon analyse.
 
 
 
 **Analyse et visualisation des données**
+
 
 Une fois les données nettoyées, j'ai procédé à leur analyse à l'aide de diverses fonctionnalités d'Excel. J'ai créé plusieurs statistiques récapitulatives, telles que les ventes moyennes selon le genre/âge/revenus des clients. J'ai également regroupé les clients par catégorie d'âge pour avoir un meilleur aperçu sur les performances du store de moto.
 
@@ -35,11 +39,13 @@ L'objectif était de présenter les données complexes d'une manière visuelleme
 
 **Perspectives et recommandations**
 
+
 Grâce à mon analyse des données, j'ai pu découvrir des informations précieuses sur le store. Par exemple, l'analyse a mis en évidence la cible idéale du store. Les jeunes adultes nord-américains travaillant dans le secteur professionnel sont les plus enclins à acheter leurs produits en fonction de leurs besoins. À l'inverse, des adultes en Europe peu importe leurs emplois qui étaient moins enclins à en acheter. Cela pourrait s'expliquer par la réglementation en vigueur et d'autres facteurs (à approfondir). 
 
 
 
 **Points à améliorer**
+
 
 J'ai rencontré quelques petits soucis. Notamment suite à l'utilisation de la version 2019 d'excel sur mac. Ce qui différencie considérablement de la version sur windows. 
 
