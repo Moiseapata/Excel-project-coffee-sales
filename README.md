@@ -1,4 +1,6 @@
 <img width="510" alt="1695953527292" src="https://github.com/Moiseapata/Excel-project-coffee-sales/assets/146359171/1a7d03e4-b1a7-4830-b161-7bf0d0e47fef">
+
+
 **Introduction**
 
 Chère communauté de Linkedin, je suis content de vous parler de ma première expérience en analyse de données ! Trois jours après avoir commencé à apprendre à devenir analyste de données, j'ai eu l'occasion de m'exercer sur un projet. J'ai aidé un magasin de motos à comprendre leurs données en créant des tableaux avec Excel. Mon objectif était d'aider le magasin à prendre de meilleures décisions pour développer leur entreprise.
